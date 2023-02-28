@@ -29,3 +29,13 @@ Enable Touchegg service
 
 
 <b> Customize Your Mouse Gesture with Touche </b>
+<br>
+
+Step 1: Download jetpack file :
+
+       https://drive.proton.me/urls/TB8SDCDCT8#RdgXVDkKdfK2
+       
+
+Step 2: Install Touche Jetpak
+
+     flatpak install com.github.joseexposito.touche.flatpakref
