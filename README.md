@@ -2,6 +2,10 @@
 Touchégg is an old multitouch gesture recognizer app for Linux
 <br>
 
+![image](https://user-images.githubusercontent.com/120317751/221755127-f5d78ea5-2c6e-475e-83f5-f95a4dab6b45.png)
+
+
+
 <b>Touchegg Installation:</b>
 -------------------------------
 
